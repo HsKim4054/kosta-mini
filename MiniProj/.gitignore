@@ -3,4 +3,5 @@
 .jsdtscope
 .project
 MANIFEST.MF
+.gitignore
 .settings/
